@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <Science_fiction>
+    <title>1984</title>
+    <author>Джордж Оруэлл</author>
+    <country>Великобритания</country>
+    <price>118 грн</price>
+  </Science_fiction>
+  <Science_fiction>
+    <title>О дивный новый мир</title>
+    <author>Олдос Хаксли</author>
+    <country>Великобритания</country>
+    <price>123 грн</price>
+  </Science_fiction>
+  <Science_fiction>
+    <title>451 по Фаренгейту</title>
+    <author>Рэй Брэдбери</author>
+    <country>США</country>
+    <price>118 грн</price>
+  </Science_fiction>
+  <Fantasy>
+    <title>Чарли и шоколадная фабрика</title>
+    <author>Роальд Даль</author>
+    <country>Великобритания</country>
+    <price>140 грн</price>
+  </Fantasy>
+  <Fantasy>
+    <title>Гарри Поттер и Философский камень</title>
+    <author>Джоан Роулинг</author>
+    <country>Великобритания</country>
+    <price>190 грн</price>
+  </Fantasy>
+  <Fantasy>
+    <title>Цирцея</title>
+    <author>Мадлен Миллер</author>
+    <country>США</country>
+    <price>207 грн</price>
+  </Fantasy>
+  <Thriller>
+    <title>The one</title>
+    <author>Джон Маррс</author>
+    <country>Великобритания</country>
+    <price>226 грн</price>
+  </Thriller>
+  <Thriller>
+    <title>Дом голосов</title>
+    <author>Донато Карризи</author>
+    <country>Италия</country>
+    <price>190 грн</price>
+  </Thriller> 
+  <Thriller>
+    <title>Внутри убийцы</title>
+    <author>Майк Омер</author>
+    <country>Израиль</country>
+    <price>193 грн</price>
+  </Thriller>   
+</catalog>
